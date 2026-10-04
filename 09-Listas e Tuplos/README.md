@@ -15,8 +15,6 @@
 
 As alterações na cópia pessoal não modificam o notebook do professor no GitHub. O notebook pode ser guardado no Drive ou descarregado em formato `.ipynb`. Os ficheiros criados durante a execução ficam no ambiente temporário do Colab; descarregar os que se pretenda conservar.
 
-Alternativa: [abrir no MyBinder](https://mybinder.org/v2/gh/agoncalveslx-gif/Programacao/HEAD?urlpath=lab%2Ftree%2F09-Listas%20e%20Tuplos%2Flaboratorio.ipynb). Neste caso, descarregar o notebook antes de terminar, pois o trabalho não é conservado entre sessões.
-
 ## Materiais da aula
 
 | Material | Abrir |

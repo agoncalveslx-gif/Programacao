@@ -1,2 +1,30 @@
-# Programacaoo
+# Informática 2026/2027
 
+Materiais das aulas de Informática da Escola Naval: slides teóricos, exercícios práticos e laboratórios de Python.
+
+## Começar
+
+Escolhe o tema na tabela. Consulta os slides, resolve os exercícios e abre o notebook do laboratório. Executa os exemplos e altera o código conforme as instruções. Consulta as soluções depois de tentares resolver as atividades.
+
+[Como abrir e utilizar os laboratórios no Google Colab](como-usar-colab.md). Não é necessário entregar respostas ao professor.
+
+## Aulas
+
+| Aula | Tema | Slides | Exercícios | Laboratório | Soluções da prática | Soluções do laboratório |
+|---|---|---|---|---|---|---|
+| 01 | Introdução à Informática | [PDF](01-introducao/slides.pdf) | [PDF](01-introducao/exercicios.pdf) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agoncalveslx-gif/Programacao/blob/main/01-introducao/laboratorio.ipynb) · [Notebook](01-introducao/laboratorio.ipynb) | [PDF](01-introducao/pratica-solucoes.pdf) | [PDF](01-introducao/laboratorio-solucoes.pdf) |
+| 02 | Entrada, variáveis e saída | [PDF](02-entrada-variaveis-saida/slides.pdf) | [PDF](02-entrada-variaveis-saida/exercicios.pdf) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agoncalveslx-gif/Programacao/blob/main/02-entrada-variaveis-saida/laboratorio.ipynb) · [Notebook](02-entrada-variaveis-saida/laboratorio.ipynb) | [PDF](02-entrada-variaveis-saida/pratica-solucoes.pdf) | [PDF](02-entrada-variaveis-saida/laboratorio-solucoes.pdf) |
+| 03 | Seleção I | [PDF](03-selecao-i/slides.pdf) | [PDF](03-selecao-i/exercicios.pdf) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agoncalveslx-gif/Programacao/blob/main/03-selecao-i/laboratorio.ipynb) · [Notebook](03-selecao-i/laboratorio.ipynb) | [PDF](03-selecao-i/pratica-solucoes.pdf) | [PDF](03-selecao-i/laboratorio-solucoes.pdf) |
+| 04 | Seleção II | [PDF](04-selecao-ii/slides.pdf) | [PDF](04-selecao-ii/exercicios.pdf) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agoncalveslx-gif/Programacao/blob/main/04-selecao-ii/laboratorio.ipynb) · [Notebook](04-selecao-ii/laboratorio.ipynb) | [PDF](04-selecao-ii/pratica-solucoes.pdf) | [PDF](04-selecao-ii/laboratorio-solucoes.pdf) |
+| 05 | Ciclo while | [PDF](05-while/slides.pdf) | [PDF](05-while/exercicios.pdf) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agoncalveslx-gif/Programacao/blob/main/05-while/laboratorio.ipynb) · [Notebook](05-while/laboratorio.ipynb) | [PDF](05-while/pratica-solucoes.pdf) | [PDF](05-while/laboratorio-solucoes.pdf) |
+| 06 | Ciclo for | [PDF](06-for/slides.pdf) | [PDF](06-for/exercicios.pdf) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agoncalveslx-gif/Programacao/blob/main/06-for/laboratorio.ipynb) · [Notebook](06-for/laboratorio.ipynb) | [PDF](06-for/pratica-solucoes.pdf) | [PDF](06-for/laboratorio-solucoes.pdf) |
+| 07 | Funções I | [PDF](07-funcoes-i/slides.pdf) | [PDF](07-funcoes-i/exercicios.pdf) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agoncalveslx-gif/Programacao/blob/main/07-funcoes-i/laboratorio.ipynb) · [Notebook](07-funcoes-i/laboratorio.ipynb) | [PDF](07-funcoes-i/pratica-solucoes.pdf) | [PDF](07-funcoes-i/laboratorio-solucoes.pdf) |
+| 08 | Funções II | [PDF](08-funcoes-ii/slides.pdf) | [PDF](08-funcoes-ii/exercicios.pdf) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agoncalveslx-gif/Programacao/blob/main/08-funcoes-ii/laboratorio.ipynb) · [Notebook](08-funcoes-ii/laboratorio.ipynb) | [PDF](08-funcoes-ii/pratica-solucoes.pdf) | [PDF](08-funcoes-ii/laboratorio-solucoes.pdf) |
+| 09 | Listas e tuplos | [PDF](09-listas-tuplos/slides.pdf) | [PDF](09-listas-tuplos/exercicios.pdf) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agoncalveslx-gif/Programacao/blob/main/09-listas-tuplos/laboratorio.ipynb) · [Notebook](09-listas-tuplos/laboratorio.ipynb) | [PDF](09-listas-tuplos/pratica-solucoes.pdf) | [PDF](09-listas-tuplos/laboratorio-solucoes.pdf) |
+| 10 | Strings | [PDF](10-strings/slides.pdf) | [PDF](10-strings/exercicios.pdf) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agoncalveslx-gif/Programacao/blob/main/10-strings/laboratorio.ipynb) · [Notebook](10-strings/laboratorio.ipynb) | [PDF](10-strings/pratica-solucoes.pdf) | [PDF](10-strings/laboratorio-solucoes.pdf) |
+| 11 | Ficheiros e exceções | [PDF](11-ficheiros-excecoes/slides.pdf) | [PDF](11-ficheiros-excecoes/exercicios.pdf) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agoncalveslx-gif/Programacao/blob/main/11-ficheiros-excecoes/laboratorio.ipynb) · [Notebook](11-ficheiros-excecoes/laboratorio.ipynb) | [PDF](11-ficheiros-excecoes/pratica-solucoes.pdf) | [PDF](11-ficheiros-excecoes/laboratorio-solucoes.pdf) |
+| 12 | Dicionários e conjuntos | [PDF](12-dicionarios-conjuntos/slides.pdf) | [PDF](12-dicionarios-conjuntos/exercicios.pdf) | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/agoncalveslx-gif/Programacao/blob/main/12-dicionarios-conjuntos/laboratorio.ipynb) · [Notebook](12-dicionarios-conjuntos/laboratorio.ipynb) | [PDF](12-dicionarios-conjuntos/pratica-solucoes.pdf) | [PDF](12-dicionarios-conjuntos/laboratorio-solucoes.pdf) |
+
+## Organização
+
+Cada tema tem cinco ficheiros na mesma pasta: `slides.pdf`, `exercicios.pdf`, `laboratorio.ipynb`, `pratica-solucoes.pdf` e `laboratorio-solucoes.pdf`.

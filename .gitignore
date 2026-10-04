@@ -1,0 +1,6 @@
+desktop.ini
+Thumbs.db
+.DS_Store
+.ipynb_checkpoints/
+~$*
+__pycache__/

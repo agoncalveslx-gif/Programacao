@@ -22,8 +22,9 @@ As alterações na cópia pessoal não modificam o notebook do professor no GitH
 | Slides em PDF | [slide.pdf](slide.pdf) |
 | Apresentação PowerPoint | [slide.pptx](slide.pptx) |
 | Exercícios práticos | [pratica.pdf](pratica.pdf) |
-| Notebook de Python | [laboratorio.ipynb](laboratorio.ipynb) |
+| Notebook de Python | [Abrir no Colab](https://colab.research.google.com/github/agoncalveslx-gif/Programacao/blob/main/11-%20Ficheiros%20e%20excecoes/laboratorio.ipynb) · [Ver ficheiro no GitHub](laboratorio.ipynb) |
 | Soluções da prática | [pratica-solucao.pdf](pratica-solucao.pdf) |
 | Soluções do laboratório | [laboratorio-solucao.pdf](laboratorio-solucao.pdf) |
 
 Realizar as atividades e responder às questões de autoavaliação antes de consultar as soluções. Não é necessário enviar respostas ao professor.
+

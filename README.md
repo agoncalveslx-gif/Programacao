@@ -4,7 +4,7 @@ Materiais de apoio às aulas da Escola Naval: apresentações, exercícios prát
 
 ## Aulas
 
-Selecionar **Abrir no Colab** para abrir o notebook diretamente deste repositório no Google Colab. Não é necessário instalar Python. Cada pasta tem também um README com acesso aos materiais e ao laboratório.
+Selecionar **Abrir no Colab** para abrir o notebook diretamente deste repositório no Google Colab. Clicar no nome do ficheiro `.ipynb` abre apenas a pré-visualização do GitHub. Não é necessário instalar Python. Cada pasta tem também um README com acesso aos materiais e ao laboratório.
 
 | Aula | Tópico | Slides | Prática | Laboratório | Soluções |
 | --- | --- | --- | --- | --- | --- |
@@ -47,3 +47,4 @@ As soluções estão incluídas e acessíveis. Realizar as atividades antes de a
 As ligações Colab apontam para o ramo `main` deste repositório e preservam os espaços e acentos dos nomes originais. Se forem alterados os nomes das pastas ou o ramo, atualizar as ligações nos README.
 
 Documentação: [Google Colab](https://research.google.com/colaboratory/intl/en-GB/faq.html).
+
